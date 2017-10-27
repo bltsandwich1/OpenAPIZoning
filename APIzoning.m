@@ -10,40 +10,39 @@
 
 
 
-function Background = BackLoad
+PlotPlan = PlotLoad();
 
 
 
 
-end
-
-
-function Draw()
-%images the latest version of the image.
-
-
-
-
-
-
-
-
-
-end
-
-
-
-
-function Corn()
-%This function opens
-
-
-end
-
-
-
-
-
-
-
-
+%%
+% 
+% function Draw()
+% %images the latest version of the image.
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% end
+% 
+% 
+% 
+% 
+% function Corn()
+% %This function opens
+% 
+% 
+% end
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
